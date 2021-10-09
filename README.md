@@ -28,3 +28,8 @@ source .env/bin/activate
 ```ps
 .env\Scripts\activate.bat
 ```
+
+## Installing dependencies
+```bash
+pip install -r requirements.txt
+```
