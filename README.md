@@ -26,7 +26,7 @@ source .env/bin/activate
 ```
 ### Windows
 ```ps
-.env\Scripts\activate.bat
+.env\Scripts\activate
 ```
 
 ## Installing dependencies
